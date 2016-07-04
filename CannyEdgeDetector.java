@@ -28,8 +28,7 @@ import java.util.Arrays;
  * <p>For a more complete understanding of this edge detector's parameters
  * consult an explanation of the algorithm.</p>
  * 
- * @author Tom Gibara
- *
+
  */
 
 public class CannyEdgeDetector {
